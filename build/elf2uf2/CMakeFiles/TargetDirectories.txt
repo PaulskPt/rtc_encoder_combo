@@ -1,5 +1,0 @@
-/mnt/i/pico/paul_projects/pico/rtc_encoder_combo/build/elf2uf2/CMakeFiles/rebuild_cache.dir
-/mnt/i/pico/paul_projects/pico/rtc_encoder_combo/build/elf2uf2/CMakeFiles/edit_cache.dir
-/mnt/i/pico/paul_projects/pico/rtc_encoder_combo/build/elf2uf2/CMakeFiles/elf2uf2.dir
-/mnt/i/pico/paul_projects/pico/rtc_encoder_combo/build/elf2uf2/boot_uf2_headers/CMakeFiles/rebuild_cache.dir
-/mnt/i/pico/paul_projects/pico/rtc_encoder_combo/build/elf2uf2/boot_uf2_headers/CMakeFiles/edit_cache.dir
