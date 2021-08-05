@@ -2576,8 +2576,10 @@ void encoder_clr_btns()
 
 void encoder_reset()
 {
+  set_DispColour(true,  bgnd_colour, true);
+  set_DispColour(false,  fgnd_colour, false);
   encoder_disp_a_txt("reset !", 3);
-  sleep_ms(1000);
+  sleep_ms(2000);
   /*            (pc, sp, delay_ms) */
   watchdog_reboot(0, 0, 0x7fffff); // varying delay_ms between 0x1fffff and 0x7fffff does not make much difference!
 }
