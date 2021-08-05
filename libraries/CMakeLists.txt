@@ -1,0 +1,6 @@
+add_subdirectory(breakout_encoder)
+add_subdirectory(breakout_ioexpander)
+add_subdirectory(pico_explorer)
+add_subdirectory(pico_graphics)
+
+

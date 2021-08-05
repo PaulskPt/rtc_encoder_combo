@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/i/pico/paul_projects/pico/rtc_encoder_combo/libraries/pico_graphics/font.hpp
+cstdint
+-
+
+/mnt/i/pico/paul_projects/pico/rtc_encoder_combo/libraries/pico_graphics/font6_data.hpp
+font.hpp
+/mnt/i/pico/paul_projects/pico/rtc_encoder_combo/libraries/pico_graphics/font.hpp
+
+/mnt/i/pico/paul_projects/pico/rtc_encoder_combo/libraries/pico_graphics/pico_graphics.cpp
+pico_graphics.hpp
+/mnt/i/pico/paul_projects/pico/rtc_encoder_combo/libraries/pico_graphics/pico_graphics.hpp
+
+/mnt/i/pico/paul_projects/pico/rtc_encoder_combo/libraries/pico_graphics/pico_graphics.hpp
+string
+-
+cstdint
+-
+algorithm
+-
+vector
+-
+font6_data.hpp
+/mnt/i/pico/paul_projects/pico/rtc_encoder_combo/libraries/pico_graphics/font6_data.hpp
+
+/mnt/i/pico/paul_projects/pico/rtc_encoder_combo/libraries/pico_graphics/types.cpp
+cstdint
+-
+algorithm
+-
+pico_graphics.hpp
+/mnt/i/pico/paul_projects/pico/rtc_encoder_combo/libraries/pico_graphics/pico_graphics.hpp
+
